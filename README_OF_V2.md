@@ -1,4 +1,4 @@
-# searching_algor
+# searching_algor V2
 This program searches through a charset (set of defined characters) and finds the correct characters in the target string.
 
 # EXPLANATION
